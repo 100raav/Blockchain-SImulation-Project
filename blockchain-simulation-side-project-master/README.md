@@ -131,7 +131,7 @@ Retrieves the full list of blocks in the blockchain.
 
 Once the application is running, you can access Swagger UI to interact with the API:
 
-[http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
+[http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/index.html)
 
 ### Testing the APIs
 
