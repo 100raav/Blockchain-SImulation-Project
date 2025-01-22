@@ -157,5 +157,5 @@ This project is open source, licensed under the MIT License.
 
 ## Contact
 
-For more details, feel free to reach out to **Karan Sahani** at **100raav73@gmail.com**.
+For more details, feel free to reach out to **Saurav Bichha** at **100raav73@gmail.com**.
 
